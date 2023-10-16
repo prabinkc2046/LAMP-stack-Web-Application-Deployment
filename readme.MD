@@ -1,4 +1,4 @@
-# LAMP Stack Web Application Deployment Guide
+# LAMP Stack Web Application Deployment
 Welcome to the comprehensive guide on setting up and deploying a web application using the LAMP (Linux, Apache, MySQL, PHP) stack. This guide will take you through each step, from launching a Linux instance on Linode to configuring secure connections using Let's Encrypt.
 
 ## Step 1: Launching Linux Instance on Linode
