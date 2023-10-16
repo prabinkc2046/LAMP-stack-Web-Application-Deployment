@@ -4,7 +4,7 @@ Welcome to the comprehensive guide on setting up and deploying a web application
 ## Step 1: Launching Linux Instance on Linode
 In this section, we'll cover the initial setup of a Linux server on Linode. Follow the video guide to launch your Linux instance.
 
-### Video Link: [How to Launch a Linode Instance](<provide link to video here>)
+### Video Link: [How to Launch a Linode Instance](https://youtu.be/P4j46nRF0Nw)
 
 ## Configuration Steps:
 Update the System:
