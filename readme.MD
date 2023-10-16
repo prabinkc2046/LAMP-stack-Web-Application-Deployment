@@ -65,7 +65,7 @@ Secure your MySQL installation by setting up a root password and implementing be
 # Step 5: Configure Secure Connection using Let's Encrypt
 Ensure a secure connection to your web server by setting up SSL certificates with Let's Encrypt.
 
-## Video Link: [Configuring Let's Encrypt for Secure Connection]()
+## Video Link: [Configuring Let's Encrypt for Secure Connection](https://youtu.be/AV7Wrq6H1qQ)
 
 # Configuration Steps:
 ### 1. Install Certbot:
